@@ -1,5 +1,5 @@
 # labyrinth
-## Uni project to create 2 types of labyrinth (Prims and hunt and kill) and model how a human would walk in.  Which type and size of labyrinth can a human exit in 8h?
+## 2017 project to create 2 types of labyrinth (Prims and hunt and kill) and model how a human would walk in.  Which type and size of labyrinth can a human exit in 8h?
 
 The goal was to create 2 types of labryinths and find the caracterisitics of a labyrinth a human is unlikely to get our in 8h of walking.
 This can be applicable to amusement park, mall, and other public space path creation.
